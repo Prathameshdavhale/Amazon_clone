@@ -19,5 +19,5 @@ Clone the repository:
 bash
 Copy
 Edit
-file:///C:/Users/hp/OneDrive/Desktop/Amazon/Amazon.html
-Open Amazon.html in a browser to view the projec
+file:git clone https://github.com/yourusername/amazon-clone.git
+Open Amazon.html in a browser to view the project.
